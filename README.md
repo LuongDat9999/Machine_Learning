@@ -16,7 +16,7 @@ This repository is a concise, hands-on recap of popular Machine Learning algorit
     * Data requirements: preprocessing/encoding/scaling needed
     * Demo: an example of a small set of data to practice and verify understanding, performed on Jupyter Notebook (file .ipynb) to easily learn and understand each cell of algorithm
 
-Note: I use established libraries (e.g., scikit-learn, TensorFlow, PyTorch, ...) for model training/inference and focus on usage and understanding. I do not re-implement algorithms from scratch here.
+Note: I use established libraries (e.g., scikit-learn, TensorFlow, PyTorch, ...) for model training/inference and focus on usage and understanding. I do not re-implement algorithms from scratch here. If you want high-quality from-scratch NumPy implementations for learning, see: https://github.com/eriklindernoren/ML-From-Scratch/tree/master/mlfromscratch
 
 ## ⚖️ Evaluation and Optimization
 - Metrics: MSE/RMSE/MAE, R², Accuracy, Precision/Recall/F1, ROC-AUC, Confusion Matrix, Silhouette (unsupervised), etc.
