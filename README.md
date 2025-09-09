@@ -7,7 +7,7 @@ This repository is a concise, hands-on recap of popular Machine Learning algorit
 - Unsupervised: K-Means (and extensions later)
 - Reinforcement: Basic introduction and simple demo (planned)
 
-## For each algorithm, we aim to cover
+## For each algorithm, i will aim to cover
 - Brief theory: core idea and objective function
 - Suitable data/types: regression vs classification, numeric vs categorical, assumptions
 - Math essentials: key formulas and constraints (high-level)
@@ -21,13 +21,6 @@ This repository is a concise, hands-on recap of popular Machine Learning algorit
 - Model selection: train/validation/test split, cross-validation
 - Optimization: Gradient Descent/SGD, Momentum, Adam, regularization (L1/L2), early stopping, feature engineering/selection
 
-## Structure
-- `Supervised_Learning/`
-  - `Linear_Regression.ipynb` — regression with preprocessing, correlation analysis, manual closed-form, SGD, sklearn pipeline, model saving
-  - `Logistic_Regression.ipynb` — classification (planned/expanding)
-  - `README.md` — brief notes per-algorithm
-- `datasets/` — sample datasets (e.g., Housing)
-- `Optimizer.ipynb` — optimization techniques overview (work in progress)
 
 ## Getting Started
 - Open notebooks in `Supervised_Learning/` to explore each algorithm.
